@@ -31,7 +31,7 @@ Click here to visit the [enhanced website](#).
 
 ___
 ## UX
-___
+
  
 This website is aimed at guitar players of various skill levels and anyone thinking of 
 taking up playing the guitar.
@@ -111,7 +111,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ___
 ## Features
-___
+
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
@@ -128,7 +128,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ___
 ## Technologies Used
-___
+
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
@@ -137,7 +137,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ___
 ## Testing
-___
+
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -157,6 +157,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+___
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -170,7 +171,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ___
 ## Credits
-___
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
