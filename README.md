@@ -29,7 +29,7 @@ Click here to visit the [existsing website](https://www.sevenoaksguitarcentre.co
 
 Click here to visit the [enhanced website](#).
 
-___
+
 ## UX
 
  
@@ -109,7 +109,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-___
+
 ## Features
 
 
@@ -126,7 +126,7 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 - Another feature idea
 
-___
+
 ## Technologies Used
 
 
@@ -135,7 +135,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
-___
+
 ## Testing
 
 
@@ -157,7 +157,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-___
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -169,7 +169,7 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-___
+
 ## Credits
 
 ### Content
